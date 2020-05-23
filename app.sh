@@ -5,4 +5,4 @@ git --version
 sleep 10
 echo 'Change made'
 echo 'Second change'
-echo "Try again'
+echo "Try'
