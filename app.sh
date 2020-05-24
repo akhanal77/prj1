@@ -6,3 +6,4 @@ sleep 10
 echo 'Changes made'
 sleep 1
 echo 'Second change'
+exit 1
