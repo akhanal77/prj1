@@ -7,4 +7,5 @@ echo 'Changes made'
 sleep 1
 echo 'Second change'
 echo 'Third change'
+hello build fail
 
